@@ -1,14 +1,6 @@
 ---
-
 layout: home
-
-title: Welcome
-
+title: "Welcome"
 ---
 
-
-
-This is my pentest series. 🚀
-
-
-
+This is my pentest series 🚀
